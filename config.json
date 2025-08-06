@@ -1,0 +1,4 @@
+{
+  "log_file": "logs/classifygen.log",
+  "max_retries": 2
+}
